@@ -1,6 +1,6 @@
 <?php
 	//buat koneksi
-	$connect = mysqli_connect("localhost", "root", "", "sensor svc");
+	$connect = mysqli_connect("localhost", "root", "", "ur table name");
 
 
 ?>
