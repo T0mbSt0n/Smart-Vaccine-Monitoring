@@ -1,0 +1,9 @@
+{
+    "require-dev": {
+        "laraveldaily/larastarters": "^1.4"
+    },
+    "require": {
+        "botman/botman": "^2.7",
+        "botman/driver-telegram": "^2.0"
+    }
+}
